@@ -7,14 +7,15 @@ section {
 }
 
 .text-center1 {
-   
+
     background-color: white;
     padding: 40px;
     border-radius: 10px;
     box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
     border: none;
 }
-.input:hover{
+
+.input:hover {
     border: 1px solid #004CFF;
 }
 
@@ -25,20 +26,20 @@ section {
     border: none;
     border-radius: 23px;
 }
-       
-.text-center{
+
+.text-center {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap:10px
+    gap: 10px
 }
 
-.text-center button{
+.text-center button {
     background-color: #004CFF;
-        color: white;
-        border: none;
-        padding: 12px 65px;
-        font-size: 16px;
-        border-radius: 9px;
-        cursor: pointer;
+    color: white;
+    border: none;
+    padding: 12px 65px;
+    font-size: 16px;
+    border-radius: 9px;
+    cursor: pointer;
 }
